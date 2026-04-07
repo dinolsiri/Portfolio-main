@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <div className="space-y-16 pb-6 sm:space-y-20">
-      <ProfileSpotlight />
+      <Dinol Siriwardena />
 
       <Reveal>
         <StackStrip />
